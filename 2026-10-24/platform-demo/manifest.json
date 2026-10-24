@@ -1,0 +1,15 @@
+{
+  "slug": "platform-demo",
+  "title": "Demo: one carousel, every platform",
+  "niche": "ai-business",
+  "caption": "DEMO POST 🧪 — pipeline check, not a regular post.\n\nOne JSON spec in, six platforms out — same carousel, same minute:\n\n1. Instagram (this post)\n2. LinkedIn\n3. Reddit (own profile)\n4. Facebook page\n5. Telegram group\n6. Bluesky\n\nYouTube stays skipped until the channel is phone-verified.\n\nIf you are seeing this on more than one platform at once — the bot works.\n\n#automation #ai #demo",
+  "slides": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+  ],
+  "generated_at": "2026-10-24T23:44:40+05:30"
+}
